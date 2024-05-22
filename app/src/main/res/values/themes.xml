@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TDMPA_511_3P_EX" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/primary_blue</item>
+    </style>
+
+    <style name="Theme.TDMPA_511_3P_EX" parent="Base.Theme.TDMPA_511_3P_EX" />
+</resources>
